@@ -1,3 +1,4 @@
 # my_demo
-This is my first git repository
-Videsh Kumar
+This is my first git repository.
+<br>
+Author-Videsh Kumar
